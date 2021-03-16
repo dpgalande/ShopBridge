@@ -1,0 +1,17 @@
+E:\ShopBridge\ShopBridge\ShopBridge.Infrastructure\bin\Debug\ShopBridge.Infrastructure.dll.config
+E:\ShopBridge\ShopBridge\ShopBridge.Infrastructure\bin\Debug\ShopBridge.Infrastructure.dll
+E:\ShopBridge\ShopBridge\ShopBridge.Infrastructure\bin\Debug\ShopBridge.Infrastructure.pdb
+E:\ShopBridge\ShopBridge\ShopBridge.Infrastructure\bin\Debug\EntityFramework.dll
+E:\ShopBridge\ShopBridge\ShopBridge.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+E:\ShopBridge\ShopBridge\ShopBridge.Infrastructure\bin\Debug\ShopBridge.DataAccess.dll
+E:\ShopBridge\ShopBridge\ShopBridge.Infrastructure\bin\Debug\ShopBridge.Entities.dll
+E:\ShopBridge\ShopBridge\ShopBridge.Infrastructure\bin\Debug\ShopBridge.DataAccess.pdb
+E:\ShopBridge\ShopBridge\ShopBridge.Infrastructure\bin\Debug\ShopBridge.DataAccess.dll.config
+E:\ShopBridge\ShopBridge\ShopBridge.Infrastructure\bin\Debug\EntityFramework.xml
+E:\ShopBridge\ShopBridge\ShopBridge.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+E:\ShopBridge\ShopBridge\ShopBridge.Infrastructure\bin\Debug\ShopBridge.Entities.pdb
+E:\ShopBridge\ShopBridge\ShopBridge.Infrastructure\obj\Debug\ShopBridge.Infrastructure.csprojAssemblyReference.cache
+E:\ShopBridge\ShopBridge\ShopBridge.Infrastructure\obj\Debug\ShopBridge.Infrastructure.csproj.CoreCompileInputs.cache
+E:\ShopBridge\ShopBridge\ShopBridge.Infrastructure\obj\Debug\ShopBridge.Infrastructure.csproj.CopyComplete
+E:\ShopBridge\ShopBridge\ShopBridge.Infrastructure\obj\Debug\ShopBridge.Infrastructure.dll
+E:\ShopBridge\ShopBridge\ShopBridge.Infrastructure\obj\Debug\ShopBridge.Infrastructure.pdb

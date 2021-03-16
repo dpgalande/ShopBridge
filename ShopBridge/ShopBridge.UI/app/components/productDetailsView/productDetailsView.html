@@ -1,0 +1,29 @@
+﻿<style>
+    p.c {
+        word-break: break-all;
+    }
+</style>
+
+<main class="container">
+    <!-- Left Column / Headphones Image -->
+    <div class="left-column">
+        
+        <img class="img-responsive" ng-show="{{APIPath + productDetail.FolderPath + productDetail.ImageName}}" src="{{APIPath + productDetail.FolderPath + productDetail.ImageName}}" />
+    </div>
+
+    <!-- Right Column -->
+    <div class="right-column">
+        <!-- Product Description -->
+        <div class="product-description">
+
+            <h1>{{productDetail.ProductName}}</h1>
+            <span>INR {{productDetail.ProductPrice}} ₹</span>
+            <p class="c">{{productDetail.ProductDescription}}</p>
+        </div>
+        <!-- Product Configuration -->
+        <!-- Product Pricing -->
+        <div class="product-price">
+            <a href="#">Back</a>
+        </div>
+    </div>
+</main>

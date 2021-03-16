@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="assets/bootstrap.min.css" rel="stylesheet" />
+    <link href="assets/ProductView.css" rel="stylesheet" />
+    <script src="assets/angular.min.js"></script>
+    <script src="assets/angular-route.js"></script>
+    <script src="assets/angular-file-upload.min.js"></script>
+
+</head>
+<body ng-app="ShopBidgeApp">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <a class="navbar-brand"> ShopBridge </a>
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+        </div>
+    </nav>
+
+    <div class="container-fluid my-3">
+        <ng-view></ng-view>
+    </div>
+    <script src="assets/bootstrap.bundle.min.js"></script>
+    <script src="assets/jquery.min.js"></script>
+    <script src="app/app.module.js"></script>
+    <script src="app/app.route.js"></script>
+    <script src="app/shared/api.services.js"></script>
+    <script src="app/components/product/productController.js"></script>
+    <script src="app/components/productDetailsView/productDetailsController.js"></script>
+</body>
+</html>

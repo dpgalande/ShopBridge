@@ -1,0 +1,14 @@
+E:\ShopBridge\ShopBridge\ShopBridge.DataAccess\bin\Debug\ShopBridge.DataAccess.dll.config
+E:\ShopBridge\ShopBridge\ShopBridge.DataAccess\bin\Debug\ShopBridge.DataAccess.dll
+E:\ShopBridge\ShopBridge\ShopBridge.DataAccess\bin\Debug\ShopBridge.DataAccess.pdb
+E:\ShopBridge\ShopBridge\ShopBridge.DataAccess\bin\Debug\EntityFramework.dll
+E:\ShopBridge\ShopBridge\ShopBridge.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\ShopBridge\ShopBridge\ShopBridge.DataAccess\bin\Debug\ShopBridge.Entities.dll
+E:\ShopBridge\ShopBridge\ShopBridge.DataAccess\bin\Debug\ShopBridge.Entities.pdb
+E:\ShopBridge\ShopBridge\ShopBridge.DataAccess\bin\Debug\EntityFramework.xml
+E:\ShopBridge\ShopBridge\ShopBridge.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\ShopBridge\ShopBridge\ShopBridge.DataAccess\obj\Debug\ShopBridge.DataAccess.csprojAssemblyReference.cache
+E:\ShopBridge\ShopBridge\ShopBridge.DataAccess\obj\Debug\ShopBridge.DataAccess.csproj.CoreCompileInputs.cache
+E:\ShopBridge\ShopBridge\ShopBridge.DataAccess\obj\Debug\ShopBridge.DataAccess.csproj.CopyComplete
+E:\ShopBridge\ShopBridge\ShopBridge.DataAccess\obj\Debug\ShopBridge.DataAccess.dll
+E:\ShopBridge\ShopBridge\ShopBridge.DataAccess\obj\Debug\ShopBridge.DataAccess.pdb
