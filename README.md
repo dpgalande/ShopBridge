@@ -6,7 +6,7 @@ ShopBridge Demo How To Run
 
 2) Open ShopBridge.sln file
 
-4) Open DBScript Folder And Run Script On Sql Server (1.Create DataBase , 2.Create Table) 
+4) Open DBScript Folder And Run Script On Sql Server (1.Create DataBase , 2.Create Table, 3.Insert ) 
 
 7) Open Web.config File Form ShopBridge.WebAPI Projct 
 
