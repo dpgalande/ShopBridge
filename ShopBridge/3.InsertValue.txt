@@ -1,0 +1,1 @@
+  insert into ProductDetails (ProductName,ProductDescription,ProductPrice,ImageName,FolderPath,IsDeleted,CreatedDate) values ('TestProduct','TestDescription',1000,'TestImage','TestPath',1,GETDATE());

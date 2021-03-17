@@ -15,16 +15,16 @@ namespace ShopBridge.Business
             return reposatory.GetMany(c=>c.IsDeleted != true);   
         }
 
-        public int AddProduct(ProductDetails product)
+        public bool AddProduct(ProductDetails product)
         {
-            if (product == null) return 0;
+            if (product == null) return false;
             reposatory.Insert(product);
             reposatory.Commit();
-            return product.Id;
+            return true;
         }
-        public int UpdateProduct(ProductDetails product)
+        public bool UpdateProduct(ProductDetails product)
         {
-            if (product == null) return 0;
+            if (product == null) return false;
             var productDetail = reposatory.GetById(product.Id);
             productDetail.ProductName = product.ProductName;
             productDetail.ProductDescription = product.ProductDescription;
@@ -34,11 +34,12 @@ namespace ShopBridge.Business
             productDetail.UpdatedDate = product.UpdatedDate;
             reposatory.Update(productDetail);
             reposatory.Commit();
-            return product.Id;
+            return true;
         }
 
         public bool DeleteProductById(int productId)
         {
+            if (productId == null) return false;
             var productDetail = reposatory.Get(c => c.Id == productId);
             productDetail.UpdatedDate = DateTime.Now;
             productDetail.IsDeleted = true;

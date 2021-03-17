@@ -29,7 +29,7 @@ namespace ShopBridge.WebAPI.Controllers
         }
 
         [HttpPost]
-        public async Task<int> AddProduct(ProductDetailDto request)
+        public  bool AddProduct(ProductDetailDto request)
         {
             var productDetail = new ProductDetails
             {
@@ -38,11 +38,11 @@ namespace ShopBridge.WebAPI.Controllers
                 ProductPrice = request.ProductPrice,
                 CreatedDate = DateTime.Now
             };
-            return await Task.FromResult(busines.AddProduct(productDetail));
+            return busines.AddProduct(productDetail);
         }
 
         [HttpPost]
-        public async Task<int> AddUpdateProduct(HttpRequestMessage request)
+        public async Task<bool> AddUpdateProduct(HttpRequestMessage request)
         {
             if (!request.Content.IsMimeMultipartContent())
             {
@@ -63,7 +63,7 @@ namespace ShopBridge.WebAPI.Controllers
 
                 if (!string.IsNullOrWhiteSpace(filePath))
                 {
-                    int resp = 0;
+                    bool resp ;
                     if (data.Fields.ContainsKey("Id"))
                     {
 
@@ -92,7 +92,7 @@ namespace ShopBridge.WebAPI.Controllers
                         });
                     }
 
-                    if (resp > 0)
+                    if (resp)
                     {
                         return await Task.FromResult(resp);
                     }
@@ -108,7 +108,7 @@ namespace ShopBridge.WebAPI.Controllers
         }
 
         [HttpPost]
-        public int UpdateProduct(ProductDetailDto request)
+        public bool UpdateProduct(ProductDetailDto request)
         {
             var productDetail = new ProductDetails
             {

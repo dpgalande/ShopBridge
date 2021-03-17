@@ -1,7 +1,6 @@
 E:\ShopBridge\ShopBridge\ShopBridge.Dto\bin\Debug\ShopBridge.Dto.dll.config
 E:\ShopBridge\ShopBridge\ShopBridge.Dto\bin\Debug\ShopBridge.Dto.dll
 E:\ShopBridge\ShopBridge\ShopBridge.Dto\bin\Debug\ShopBridge.Dto.pdb
-E:\ShopBridge\ShopBridge\ShopBridge.Dto\obj\Debug\ShopBridge.Dto.csprojAssemblyReference.cache
 E:\ShopBridge\ShopBridge\ShopBridge.Dto\obj\Debug\ShopBridge.Dto.csproj.CoreCompileInputs.cache
 E:\ShopBridge\ShopBridge\ShopBridge.Dto\obj\Debug\ShopBridge.Dto.dll
 E:\ShopBridge\ShopBridge\ShopBridge.Dto\obj\Debug\ShopBridge.Dto.pdb

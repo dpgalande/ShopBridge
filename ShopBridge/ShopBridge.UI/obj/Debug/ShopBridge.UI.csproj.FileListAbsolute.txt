@@ -28,6 +28,8 @@ E:\ShopBridge\ShopBridge\ShopBridge.UI\bin\roslyn\vbc.rsp
 E:\ShopBridge\ShopBridge\ShopBridge.UI\bin\roslyn\VBCSCompiler.exe
 E:\ShopBridge\ShopBridge\ShopBridge.UI\bin\roslyn\VBCSCompiler.exe.config
 E:\ShopBridge\ShopBridge\ShopBridge.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ShopBridge\ShopBridge\ShopBridge.UI\bin\nunit.framework.dll
+E:\ShopBridge\ShopBridge\ShopBridge.UI\bin\nunit.framework.xml
 E:\ShopBridge\ShopBridge\ShopBridge.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 E:\ShopBridge\ShopBridge\ShopBridge.UI\obj\Debug\ShopBridge.UI.csprojAssemblyReference.cache
 E:\ShopBridge\ShopBridge\ShopBridge.UI\obj\Debug\ShopBridge.UI.csproj.CoreCompileInputs.cache
